@@ -15,7 +15,7 @@ class Card extends Component{
                 <div className="card-body">
                     <div className="row center">
                         <div className="col-6">
-                        <img src ={img}/>
+                            <img src ={img} className="float-right" />
                         </div>
                         <div className="col-6 Fitness-Card-Info">
                             <h1>{title}</h1>

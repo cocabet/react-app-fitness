@@ -1,5 +1,4 @@
 import React, { Component } from 'react'
-import exerciseImg from '../images/exercise.png'
 import circleImg from '../images/circles.png'
 import './styles/Card.css'
 
